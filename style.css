@@ -1,0 +1,21 @@
+body
+{
+	background-color: black;
+ 
+    text-align: center;
+    
+    
+}
+
+h1{
+    color:white;
+}
+.div1 , .div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 80px;
+	}
+
+    
